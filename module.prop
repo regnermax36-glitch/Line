@@ -1,0 +1,6 @@
+id=dealsbe_website_module
+name=Dealsbe Website Module
+version=v1.0
+versionCode=1
+author=Developer
+description=A Magisk module containing the dealsbe website files
