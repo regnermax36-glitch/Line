@@ -1,0 +1,6 @@
+id=maxregneros_base
+name=MaxRegnerOS Base
+version=v1.0
+versionCode=1
+author=Developer
+description=Base structural framework for MaxRegnerOS.
